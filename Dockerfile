@@ -1,1 +1,1 @@
-FROM quay.io/datawire/statsd:0.30.1
+FROM quay.io/datawire/statsd:0.34.0
